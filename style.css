@@ -1,0 +1,82 @@
+.three {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.four {
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 200px;
+    float: left;
+    top: 100px;
+}
+
+.five {
+    background-color: maroon;
+    width: 200px;
+    height: 50px;
+    float: left;
+}
+
+.six {
+    background-color: rgb(115, 255, 0);
+    width: 600px;
+    height: 100px;
+
+}
+
+.seven {
+    background-color: rgb(92, 109, 15);
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.eight {
+    background-color: coral;
+    width: 200px;
+    height: 100px;
+
+}
+
+.nine {
+    background-color: yellow;
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+
+.ten {
+    background-color: mediumseagreen;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.c {
+    background-color: rgb(199, 102, 118);
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.two {
+    background-color: aqua;
+    width: 600px;
+    height: 50px;
+    float: left;
+}
+
+
+
+
+
+
+.one {
+    background-color: rgb(224, 30, 176);
+    width: 600px;
+    height: 50px;
+    float: left;
+}
